@@ -33,4 +33,4 @@ ZanyonLocker™ will not be used for **unethical reasons**, such as hacking. Use
 
 
 
-**© Raiden Games Corporation 2026.**
+**© Raiden Corporation 2026.**
