@@ -1,4 +1,4 @@
-_ZanyonLocker™ is a safe encryption tool made by Raiden Corporation. It is used to encrypt files over a secure connection._
+_ZanyonLocker™ is a safe encryption tool made by Raiden Corporation. It is used to encrypt files over a secure process._
 
 🔐 **Security**
 ZanyonLocker™ uses AES (Advanced Encryption Standard) to securely encrypt your data for privacy.
