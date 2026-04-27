@@ -32,7 +32,9 @@ _Note: These are mimimum requirements, meaning, for example it says at least Win
 First, press **Windows Key + R** on your keyboard. Then, type **msinfo32** and press **enter.** This will give you all the specs of your PC.
 <img width="399" height="206" alt="image" src="https://github.com/user-attachments/assets/662a027b-b829-4e77-b7e5-64808968e15c" />
 
-<img width="715" height="729" alt="IMG_20260427_124730_874 (1)" src="https://github.com/user-attachments/assets/a83bb39e-6860-493b-91c1-cfda588d07fd" />
+<img width="195" height="204" alt="Win" src="https://github.com/user-attachments/assets/dbfa382c-f497-4b98-bcc3-c397ff5619ae" /><img width="105" height="101" alt="R" src="https://github.com/user-attachments/assets/bf7ae126-9c07-4b74-a9aa-765f33d45e7c" />
+
+
 
 
 
@@ -45,6 +47,10 @@ ZanyonLocker™ will not be used for **unethical reasons**, such as hacking. Use
 Version: v1.3.0
 
 <img width="619" height="139" alt="image" src="https://github.com/user-attachments/assets/077eb4a7-133a-4d5b-8a63-8002e080d497" />
+
+
+<img width="363" height="525" alt="image" src="https://github.com/user-attachments/assets/2fb22438-a00f-4d88-bb42-a7b0028fd4d2" />
+
 
 _Project Created By:_ Raiden Corp
 
