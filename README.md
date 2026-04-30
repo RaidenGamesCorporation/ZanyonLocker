@@ -21,7 +21,7 @@ To encrypt your first file using ZanyonLocker™, you're gonna follow these step
 
 • Memory (RAM) - 4GB RAM
 
-• Storage - 500MB Free Space
+• Storage - 5MB Free Space
 
 • Architecture - x64 (64-bit)
 
